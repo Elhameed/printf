@@ -21,7 +21,7 @@ The available convertion specifiers are:
 
 ## Usage
 + All the files are to be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
-+ Include the "holberton.h" header file on the functions using the _printf()
++ Include the [main.h](./main.h) header file on the functions using the _printf()
 
 ## Author 
 + [Abdulhameed Ajani](https://github.com/Elhameed) and [Timileyin Abe](https://github.com/A-OT)
