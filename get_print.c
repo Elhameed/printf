@@ -11,7 +11,7 @@
  * and the first element of the struct, and then the approriate
  * printing function.
  *
- * Return: a pointer to the matching printing function
+ * Return: a pointer to the matching printing function.
  *
  */
 
