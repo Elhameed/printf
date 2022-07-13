@@ -24,4 +24,4 @@ The available convertion specifiers are:
 + Include the [main.h](./main.h) header file on the functions using the _printf()
 
 ## Author 
-+ [Abdulhameed Ajani](https://github.com/Elhameed) and [Timileyin Abe](https://github.com/A-OT)
++ [Abdulhameed Ajani](https://github.com/Elhameed) and [Timileyin Abe](https://github.com/A-OT).
